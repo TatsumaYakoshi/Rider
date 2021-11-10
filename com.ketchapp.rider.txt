@@ -1,0 +1,30 @@
+[BEGIN]
+
+-Made by TatsumaYakoshi
+
+Rider Modded Save:
+
+Load game at least Once & Close before Patching
+
+(Needs ROOT)
+
+Features:
+
+High Score
+
+Lots of Money
+
+Most Bikes Unlocked
+
+https://YouTube.com/TatsumaYakoshi
+
+https://Instagram.com/TatsumaYakoshi
+
+[COPY_FILE]
+{"file_name":"com.ketchapp.rider_preferences.xml"}
+
+{"to":"/data/data/com.ketchapp.rider/shared_prefs/com.ketchapp.rider_preferences.xml"}
+
+[END]
+
+Save Edited Enjoy 
